@@ -1,1 +1,0 @@
-import{j as r,n as a}from"./index-BTnWXFte.js";const n={default:"chip",ok:"chip chip-ok",err:"chip chip-err",info:"chip chip-info",warn:"chip chip-warn",purple:"chip chip-purple"};function h({variant:p="default",className:i,...c}){return r.jsx("span",{className:a(n[p],i),...c})}export{h as B};
