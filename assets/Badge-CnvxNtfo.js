@@ -1,0 +1,1 @@
+import{j as r,e as a}from"./index-DBu8imxo.js";const e={default:"chip",ok:"chip chip-ok",err:"chip chip-err",info:"chip chip-info",warn:"chip chip-warn",purple:"chip chip-purple"};function h({variant:p="default",className:i,...c}){return r.jsx("span",{className:a(e[p],i),...c})}export{h as B};
